@@ -1,0 +1,19 @@
+;part of ALPiNE 3D-Engine
+;written in spring and summer 1997 by Ziron
+
+M320x200	EQU	0h
+M320x400	EQU	1h
+M640x400	EQU	2h
+M640x480	EQU	3h
+M800x600	EQU	4h
+M1024x768	EQU	5h
+
+GLOBAL	ScrSaveCurrentMode:PROC
+GLOBAL	ScrRestoreOldMode:PROC
+GLOBAL	ScrSetMode:PROC
+GLOBAL	ScrCopyBuffer:PROC
+GLOBAL	ScrWaitVRetrace:PROC
+
+GLOBAL	GScrXRes:WORD
+GLOBAL	GScrYRes:WORD
+GLOBAL  GScrBytes:DWORD

@@ -1,0 +1,86 @@
+nothing to say really...
+so here it is!
+our first intro:
+
+-nothing and more-
+
+it was coded in quite
+a hurry, so please dont
+judge too hard.
+
+anyway, we were busy
+with 3d-engine and
+s3m-player, so there
+was not much time
+left for the effects.
+
+still, we wanted to
+release something, just
+to introduce ourselves.
+
+
+
+
+
+
+³credits:
+
+³flames . . . . . . . . . syrius
+
+³sky-generator . . . syrius
+
+³nothing-logo . . . . radical
+³                         phorce
+
+³tunnel . . . . . . . . . syrius
+
+³z-buffered bobs. . syrius
+
+³endscroller . . . . . syrius
+
+³fonts . . . . . . . . . . syrius
+
+³musix . . . . . . . . . . syrius
+
+³3d-engine . . . . . . . ziron
+
+³s3m-player. . . . . . syrius
+
+and
+³pmode . . . . . . . . . . . tran
+
+
+
+³special thanx to:
+
+³allergy for testing this
+³  intro quite a few times
+³               on his compi.
+
+³jeffrey lim:
+            for helping with
+            dma-routines.
+
+³pinker: for texture-ideas
+
+³zed: for zed3d
+
+³firelight: for fmoddoc
+
+
+
+
+
+greetings go to:
+
+
+triton
+future crew
+liam the lemming
+sanction
+funk!
+cubic team, seen
+pulse
+
+and all attenders of
+wired 97!

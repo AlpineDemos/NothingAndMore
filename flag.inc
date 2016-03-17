@@ -1,0 +1,2 @@
+GLOBAL	InitFlag:PROC
+GLOBAL  MoveFlag:PROC
